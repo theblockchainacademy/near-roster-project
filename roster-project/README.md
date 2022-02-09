@@ -1,4 +1,4 @@
-# `near-sdk-as` Starter Kit
+# Roster project manages course and a course roster. Good learning project
 
 This is a good project to use as a starting point for your AssemblyScript project.
 
