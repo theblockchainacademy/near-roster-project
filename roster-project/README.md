@@ -16,8 +16,8 @@ There is 1 AssemblyScript contract in this project, each in their own folder:
 Prerequisites: NEAR Mainnet and testnet accounts, Node.js, NEAR Cli, and the user must log into the NEAR CLI before running this contract application.
 Once the prerequistes are complete, but before the Smart Contract application is run, set the environmental variables below, and log into NEAR:
 
-export NODE_OPTIONS=--openssl-legacy-provider
-export NEAR_ENV=testnet
+export NODE_OPTIONS=--openssl-legacy-provider,
+export NEAR_ENV=testnet,
 near login
 
 This video explains the prerequisites: https://drive.google.com/file/d/1_VXy5KbcSeNZka6dEkYLXbagJSsPKnxm/view?usp=sharing
